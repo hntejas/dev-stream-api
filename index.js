@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const db = require("./db");
+const invalidRouteHandler = require('./middlewares/invalid-route-handler.js');
 
 const videoRouter = require("./routes/video.router");
 const channelRouter = require("./routes/channel.router");
@@ -18,6 +19,8 @@ app.get('/',function(req, res){
 
 app.use("/videos", videoRouter);
 app.use("/channels", channelRouter);
+
+app.use(invalidRouteHandler);
 
 app.listen(3000, () => {
   console.log('server started');
