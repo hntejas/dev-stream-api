@@ -4,7 +4,7 @@ const router = express.Router();
 const Channel = require("../models/channel.model")
 
 router.get('/', async (req, res) => {
-  let channe;s = [];
+  let channels = [];
   channels = await Channel.find() ;
   res.json({
     success: true,

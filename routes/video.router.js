@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const Video = require("../models/video.model")
+const Video = require("../models/video.model");
 
 router.get('/', async (req, res) => {
   let videos = [];
