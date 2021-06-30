@@ -1,0 +1,29 @@
+{
+  "channels": [
+    {
+      "title": "freeCodeCamp.org",
+      "subscribers": 3400000,
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnifaQZvAunS0OFb2y_cieoVjLCVjqQW8Exf3BC1gg=s48-c-k-c0x00ffffff-no-rj",
+    },
+    {
+      "title": "Tanay Pratap",
+      "subscribers": 21600,
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnibnmzbi8nfRHEAzdI-8lpPGsrD1F6Cg3mAImtQ=s176-c-k-c0x00ffffff-no-rj-mo",
+    },
+    {
+      "title": "Web Dev Simplified",
+      "subscribers": 498990,
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnhIz_0Su6HhW6Ym50QCroJCAnF10X9xnnMDboN2=s68-c-k-c0x00ffffff-no-rj",
+    },
+    {
+      "title": "Akshay Saini",
+      "subscribers": 84212,
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnin7zykyU20uPntBE42IfNsj9SAL7tKeE7eiNuUYA=s48-c-k-c0x00ffffff-no-rj",
+    },
+    {
+      "title": "Traversy Media",
+      "subscribers": 1400000,
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwng963DN2_MIbKuvMWRrN4KG920h3Y4YHg6KET9vZg=s48-c-k-c0x00ffffff-no-rj",
+    }
+  ]
+}
